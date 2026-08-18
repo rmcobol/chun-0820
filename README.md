@@ -1,3 +1,27 @@
+<h1><수업전 설문조사></h1>
+<h2 ><a href="https://naver.me/56Xo1aob" style="color:red;">설문조사 클릭해 주세요.</a></h2>
+
+<hr>
+ <h1>한컴 타자 연습</h1>
+https://www.hancomtaja.com/ko#main__taja
+ <hr>
+  **chrome->크롬 설치하고 환경설정**<br>
+  https://www.google.com/intl/ko_kr/chrome/ <br>
+ 1. 회원가입<br>
+ 2. 크롬 계정 동기화 하기<br>
+ 3. 크롬 환경 설정<br>
+ 4. 광고를 지우는 알림 허용에 관한 설정<br>
+    chrome://settings/content/notifications <br>    
+ 5. 다른 사람의 pc나 공용pc에서는 시크릿 모드를 사용<br>   
+    chrome 에서 ---> Ctrl + Shift + N (단축키)--> 시크릿 모드로 변환
+ 
+<hr>
+1. 구글 사이트 <br>
+https://www.google.com/?hl=ko <p>
+2. AI 챗 생성형 사이트<br>
+  ChatGPT 사이트 <br>
+  https://chatgpt.com/<br>
+  Gemini 사이트 <br>
 <hr>
 <h1>스마트 폰에서 구글 계정 동기화 하는 방법</h1>
 <a href="https://www.google.com/search?q=2026%EB%85%84+%EC%8A%A4%EB%A7%88%ED%8A%B8+%ED%8F%B0%EC%97%90%EC%84%9C+%EA%B5%AC%EA%B8%80+%EB%8F%99%EA%B8%B0%ED%99%94%ED%95%98%EA%B8%B0&sca_esv=cf7b893ecca69e9d&sxsrf=ANbL-n5kOCcppyqxlkW-xWOZaTuwOmy0Og%3A1773819767968&ei=d1e6aYPrOrSXvr0P1oSF4AU&biw=1536&bih=703&ved=0ahUKEwjDgqnJ-aiTAxW0i68BHVZCAVwQ4dUDCBE&uact=5&oq=2026%EB%85%84+%EC%8A%A4%EB%A7%88%ED%8A%B8+%ED%8F%B0%EC%97%90%EC%84%9C+%EA%B5%AC%EA%B8%80+%EB%8F%99%EA%B8%B0%ED%99%94%ED%95%98%EA%B8%B0&gs_lp=Egxnd3Mtd2l6LXNlcnAiMjIwMjbrhYQg7Iqk66eI7Yq4IO2PsOyXkOyEnCDqtazquIAg64-Z6riw7ZmU7ZWY6riwMggQABiJBRiiBDIFEAAY7wUyBRAAGO8FMggQABiABBiiBEiZKlC4B1j5J3ABeAGQAQCYAfUBoAHfCaoBBTAuNy4xuAEDyAEA-AEBmAIHoALzB8ICChAAGEcY1gQYsAPCAggQIRigARjDBMICChAhGAoYoAEYwwSYAwCIBgGQBgqSBwUxLjUuMaAH9huyBwUwLjUuMbgH7QfCBwUwLjUuMsgHE4AIAQ&sclient=gws-wiz-serp">스마트 폰에서 구글 계정 동기화하기
