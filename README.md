@@ -16,10 +16,11 @@ https://www.hancomtaja.com/ko#main__taja
     chrome 에서 ---> Ctrl + Shift + N (단축키)--> 시크릿 모드로 변환
  
 <hr>
-1. 구글 사이트 <br>
+<h2>1. 구글 사이트</h2>
 <a href="https://www.google.com/?hl=ko" >구글 사이트</a>
- <p>
-2. AI 챗 생성형 사이트<br>
+ <hr>
+ 
+<h2>2. AI 챗 생성형 사이트</h2>
   <hr>
   1) ChatGPT 사이트 <br>
   <a href="https://chatgpt.com/" >ChatGPT 사이트</a>
