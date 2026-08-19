@@ -20,13 +20,14 @@ https://www.hancomtaja.com/ko#main__taja
 <a href="https://www.google.com/?hl=ko" >구글 사이트</a>
  <p>
 2. AI 챗 생성형 사이트<br>
-  ChatGPT 사이트 <br>
+  <hr>
+  1) ChatGPT 사이트 <br>
   <a href="https://chatgpt.com/" >ChatGPT 사이트</a>
   <br>
-  Gemini 사이트 <br>
+  2) Gemini 사이트 <br>
   <a href="https://gemini.google.com/app?hl=ko" >Gemini 사이트</a>
   
-  weeai 사이트 <br>
+  3) weeai 사이트 <br>
    <a href="https://weeai.kr/" > weeai 사이트</a>
   
 <hr>
