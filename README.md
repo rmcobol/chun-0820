@@ -26,9 +26,8 @@ https://www.hancomtaja.com/ko#main__taja
   <br>
   2) Gemini 사이트 <br>
   <a href="https://gemini.google.com/app?hl=ko" >Gemini 사이트</a>
-  
-  3) weeai 사이트 <br>
-   <a href="https://weeai.kr/" > weeai 사이트</a>
+   3) weeai 사이트 <br>
+  <a href="https://weeai.kr/" > weeai 사이트</a>
   
 <hr>
 <h1>스마트 폰에서 구글 계정 동기화 하는 방법</h1>
