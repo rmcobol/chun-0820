@@ -30,6 +30,12 @@ https://www.hancomtaja.com/ko#main__taja
   <br>
   3) weeai 사이트 <br>
   <a href="https://weeai.kr/" > weeai 사이트</a>
+
+  <hr>
+
+<h1> AI 디자인 </h1>
+ <h2>AI 디자인 바나나X</h2> 
+ <h2> https://furoku.github.io/bananaX/projects/infographic-evaluation/ko/</h2>
   
 <hr>
 <h1>스마트 폰에서 구글 계정 동기화 하는 방법</h1>
