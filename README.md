@@ -88,6 +88,11 @@ https://drive.google.com/file/d/1edxkHKCssDyfVl6q9wB4N5Bj-X0uGKG6/view?usp=drive
 2.https://www.pexels.com/ko-kr/
 <hr>
 
+<hr>
+<h1>11월05일 수업자료 </h1>
+https://drive.google.com/file/d/1Sh9BS3fzaD0KTU2WnhB3TQr9F-UIHqqI/view
+<p><p><p>
+<hr>
 
 
 
