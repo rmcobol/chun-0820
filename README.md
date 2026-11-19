@@ -100,4 +100,9 @@ https://drive.google.com/file/d/12J--I505DKM7mbUUIMkjE_4JjUMVE8q8/view?usp=drive
 <p><p><p>
 <hr>
 
+<hr>
+<h1>11월20일 수업자료 </h1>
+https://drive.google.com/file/d/10T2oMWu_Rk6FX0lQCaz4_LTeGa9_c3CE/view?usp=drive_link
+<p><p><p>
+<hr>
 
